@@ -2,7 +2,7 @@
 
 Welcome to my GitHub repository...
 
-## Description of the project project
+## Description of the project
 
 You are currently viewing this project's **README** file.
 In this project i am building a dadabase named "alzheimer_team". 
